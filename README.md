@@ -1,2 +1,2 @@
-# 22-Projects
+# Projects
 Duma's Projects 
